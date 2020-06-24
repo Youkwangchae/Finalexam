@@ -19,7 +19,7 @@ class Point:
         p3 = Point(self.__x,self.__y)
         print("(",p3.__x,",",p3.__y,")")
         
-
+#하단은 실행 예제입니다.
 p1 = Point(1,1)
 p2 = Point(2,2)
 print(p1.distance(p2))
